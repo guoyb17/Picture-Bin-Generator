@@ -116,7 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.c" />
+    <ClCompile Include="main.cc" />
   </ItemGroup>
   <ItemGroup>
     <None Include="hex.mif" />
@@ -144,6 +144,7 @@
     <ClInclude Include="r7.h" />
     <ClInclude Include="r8.h" />
     <ClInclude Include="r9.h" />
+    <ClInclude Include="test.h" />
     <ClInclude Include="won.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
