@@ -21,27 +21,6 @@
     <ClInclude Include="hex.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="hex_0.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="hex_1.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="hex_2.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="hex_3.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="hex_4.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="hex_5.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="hex_6.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="hex_flag.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -51,36 +30,6 @@
     <ClInclude Include="lost.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="r0.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r1.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r2.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r3.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r4.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r5.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r6.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r7.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r8.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="r9.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="won.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -88,6 +37,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="slogan.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

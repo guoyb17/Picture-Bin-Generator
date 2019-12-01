@@ -123,27 +123,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hex.h" />
-    <ClInclude Include="hex_0.h" />
-    <ClInclude Include="hex_1.h" />
-    <ClInclude Include="hex_2.h" />
-    <ClInclude Include="hex_3.h" />
-    <ClInclude Include="hex_4.h" />
-    <ClInclude Include="hex_5.h" />
-    <ClInclude Include="hex_6.h" />
     <ClInclude Include="hex_flag.h" />
     <ClInclude Include="hex_lei.h" />
     <ClInclude Include="lost.h" />
     <ClInclude Include="minus.h" />
-    <ClInclude Include="r0.h" />
-    <ClInclude Include="r1.h" />
-    <ClInclude Include="r2.h" />
-    <ClInclude Include="r3.h" />
-    <ClInclude Include="r4.h" />
-    <ClInclude Include="r5.h" />
-    <ClInclude Include="r6.h" />
-    <ClInclude Include="r7.h" />
-    <ClInclude Include="r8.h" />
-    <ClInclude Include="r9.h" />
+    <ClInclude Include="slogan.h" />
     <ClInclude Include="test.h" />
     <ClInclude Include="won.h" />
   </ItemGroup>
